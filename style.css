@@ -6,6 +6,26 @@ body{
     float: right;
     background-repeat: repeat-y;
 }
-table{
+.puskas{
+    max-height: 200px;
+    float: left;
+    margin-right: 1cm;
+    margin-top: 0,5cm;
+    margin-bottom: 2cm;
+}
+#kapusok{
+    max-height: 350px;
+    float: right;
+}
+.kapustablazat{
     border: 1px solid black;
+    size: 15cm;
+}
+#vedok{
+    max-height: 190px;
+}
+#kozeppalyasok{
+    max-height: 202px;
+}#tamadok{
+    max-height: 170px;
 }
